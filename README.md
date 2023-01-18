@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedkhaledd" alt="sayedkhaledd" /></a> </p>
 
-- 💬 Ask me about **NodeJS, Android Java, C++ Problem Solving**
+- 💬 Ask me about **NodeJS, Java Spring, Android Java, C++ Problem Solving**
 
 - 📫 How to reach me **sayedkhaledsa@gmail.com**
 

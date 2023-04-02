@@ -1,5 +1,5 @@
 <h1 align="center">I'm Sayed Khaled</h1>
-<h3 align="center">A fresh graduate software engineer</h3>
+<h3 align="center">A fresh graduate software engineer, specializing in back-end development (currently using Java Spring framework)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedkhaledd&label=Profile%20views&color=0e75b6&style=flat" alt="sayedkhaledd" /> </p>
 

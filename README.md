@@ -2,11 +2,13 @@
 <h3 align="center">Fresh graduate software developer</h3>
 
 
-- 🌱 I’m currently learning **Java Spring Framework || Computer Science**
+- 👨‍💻 I currently develop projcets using **Java Spring Framework**
 
 - 💻 I mainly code in **Java and Javascript/Typescript**
 
-- 💬 Ask me about **Java Spring, NodeJS, Android native, Problem Solving**
+- 💬 Ask me about **Java Spring, NodeJS, Android native, and Problem Solving**
+
+- 🔨 latest side project using Java Spring framework [here](https://github.com/sayedkhaledd/ecommerce)
 
 - 📫 How to reach me **sayedkhaledsa@gmail.com**
 

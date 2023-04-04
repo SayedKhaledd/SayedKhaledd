@@ -1,7 +1,8 @@
 <h1 align="center">I'm Sayed Khaled</h1>
 <h3 align="center">Fresh graduate software developer</h3>
 
-
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
 - 👨‍💻 I currently develop projcets using **Java Spring Framework**
 
 - 💻 I mainly code in **Java and Javascript/Typescript**
@@ -14,9 +15,9 @@
 
 - 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1LiMjX8zcdjoW1iF1cyUIdKQEMiQEyRNQ/view?usp=sharing)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedkhaledd&show_icons=true&locale=en&theme=radical" alt="sayedkhaledd" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedkhaledd&theme=radical" alt="sayedkhaledd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedkhaledd&show_icons=true&locale=en&theme=gotham" alt="sayedkhaledd" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedkhaledd&theme=gotham" alt="sayedkhaledd" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedkhaledd&show_icons=true&locale=en&layout=compact&theme=radical" alt="sayedkhaledd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedkhaledd&show_icons=true&locale=en&layout=compact&theme=gotham" alt="sayedkhaledd" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

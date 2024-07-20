@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java Spring, React.js, and Flutter**
 
-- 🔨 latest side project using Java Spring framework [here]([https://github.com/sayedkhaledd/ecommerce](https://github.com/sayedkhaledd/course-management-backend))
+- 🔨 latest side project using Java Spring framework [here](https://github.com/sayedkhaledd/course-management-backend)
 
 - 📫 How to reach me **sayedkhaledsa@gmail.com**
 

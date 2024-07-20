@@ -1,15 +1,15 @@
 <h1 align="center">I'm Sayed Khaled</h1>
-<h3 align="center">Fresh graduate software developer</h3>
+<h3 align="center">Software Engineer</h3>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
  
-- 👨‍💻 I currently develop projcets using **Java Spring Framework**
+- 👨‍💻 I currently develop projects using **Java Spring Framework**
 
-- 💻 I mainly code in **Java and Javascript/Typescript**
+- 💻 I mainly code in **Java, Javascript/Typescript, and Dart**
 
-- 💬 Ask me about **Java Spring, NodeJS, Android native, and Problem Solving**
+- 💬 Ask me about **Java Spring, React.js, and Flutter**
 
-- 🔨 latest side project using Java Spring framework [here](https://github.com/sayedkhaledd/ecommerce)
+- 🔨 latest side project using Java Spring framework [here]([https://github.com/sayedkhaledd/ecommerce](https://github.com/sayedkhaledd/course-management-backend))
 
 - 📫 How to reach me **sayedkhaledsa@gmail.com**
 
